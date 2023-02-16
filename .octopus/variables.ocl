@@ -1,3 +1,3 @@
-variable "VarDEF" {
-    value "ValDEF" {}
+variable "VarMain" {
+    value "ValMain" {}
 }
