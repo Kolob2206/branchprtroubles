@@ -1,5 +1,5 @@
 step "run-a-script-main" {
-    name = "Run a Script DEF"
+    name = "_Temporary_ Remove WebDocumentViewHandler Init Page from App init for Web App Servers Only"
     properties = {
         Octopus.Action.TargetRoles = "poll"
     }
